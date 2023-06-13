@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/83592338/194636748-70033ada-7e4d-4076-8f3a-e1fe62964f1d.png)
 ![image](https://user-images.githubusercontent.com/83592338/194636781-9b0c9bcd-52ae-4acb-be18-202755860795.png)
 ![Stats](https://github-readme-stats.vercel.app/api?username=misha99fr&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandfoxy&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C++;Love)](https://git.io/typing-svg)
 
