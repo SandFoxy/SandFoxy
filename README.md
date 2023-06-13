@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://123321-cazud9oaq-sandfoxy.vercel.app/api?username=sandfoxy&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://123321-sandfoxy.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **SandFoxy/SandFoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
