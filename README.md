@@ -1,6 +1,6 @@
 - 👋 Hello, I’m SandFoxy
 - 👀 I’m interested in Program Protection and WebSockets, etc
-- 🌱 I’m currently learning Rust and Swift
+- 🌱 I’m currently learning С#
 - 💞️ I love C++
 
 Статистика и мои языки программирования/операционная система:
