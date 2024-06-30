@@ -1,9 +1,5 @@
 - 👋 Hello, I’m SandFoxy
-- 👀 I’m interested in Program Protection and WebSockets, etc
-- 🌱 I’m currently learning С#
 - 💞️ I love C++
-
-Статистика и мои языки программирования/операционная система:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
